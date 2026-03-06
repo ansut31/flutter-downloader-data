@@ -4,3 +4,55 @@
     "zip": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip"
   }
 ]
+
+
+{
+  "version": "1.2.0",
+  "last_updated": "2025-03-07",
+  "items": [
+    {
+      "id": "game_files_01",
+      "name": "Game Files Pack",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://github.com/USERNAME/REPO/releases/download/v2.1.0/game_files.zip",
+      "extract_path": "com.example.mygame",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
+    },
+    {
+      "id": "mod_textures",
+      "name": "HD Texture Mod",
+      "description": "Texture resolusi tinggi untuk game favorit",
+      "version": "1.5.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip",
+      "extract_path": "com.example.mygame/files/textures",
+      "icon": "🖼️",
+      "file_size": 104857600,
+      "category": "Mod"
+    },
+    {
+      "id": "config_pack",
+      "name": "Config Pack",
+      "description": "Konfigurasi dan setting optimal untuk performa terbaik",
+      "version": "1.0.3",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip",
+      "extract_path": "com.example.mygame/files/config",
+      "icon": "⚙️",
+      "file_size": 2097152,
+      "category": "Tools"
+    },
+    {
+      "id": "soundtrack_pack",
+      "name": "Soundtrack Pack",
+      "description": "Music dan sound effects berkualitas tinggi",
+      "version": "3.0.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip",
+      "extract_path": "com.example.mygame/files/sounds",
+      "icon": "🎵",
+      "file_size": 78643200,
+      "category": "Media"
+    }
+  ]
+}
