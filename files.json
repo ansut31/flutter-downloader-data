@@ -1,10 +1,12 @@
 [
   {
-    "name": "Data Game",
-    "url": "https://raw.githubusercontent.com/ansut31/flutter-download-data/main/dirotkof.zip"
+    "name": "Ultra Graphics",
+    "description": "Graphics HD Pack",
+    "zip": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip"
   },
   {
-    "name": "Aset Grafis",
-    "url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip"
+    "name": "New Skin Pack",
+    "description": "100+ skins",
+    "zip": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip"
   }
 ]
