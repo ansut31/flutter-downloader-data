@@ -14,8 +14,8 @@
       "category": "Game"
     },
     {
-      "id": "alucom",
-      "name": "Patch Update Pack",
+      "id": "game_files_02",
+      "name": "Alucom",
       "description": "Update patch terbaru untuk performa game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/alucom.zip",
@@ -25,8 +25,8 @@
       "category": "Tools"
     },
     {
-      "id": "aludragon",
-      "name": "Skin Pack",
+      "id": "game_files_03",
+      "name": "Aludragon",
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/aludragon.zip",
