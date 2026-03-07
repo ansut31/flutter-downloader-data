@@ -8,7 +8,7 @@
       "description": "File data utama untuk game RPG offline",
       "version": "2.1.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirotkof.zip",
-      "extract_path": "data",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "🎮",
       "file_size": 52428800,
       "category": "Game"
