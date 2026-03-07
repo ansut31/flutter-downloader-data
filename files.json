@@ -5,7 +5,7 @@
     {
       "id": "game_files_01",
       "name": "Game Files Pack",
-      "description": "File data utama",
+      "description": "File data utama untuk game RPG offline",
       "version": "2.1.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirot2.zip",
       "extract_path": "com.mobile.legends/files",
