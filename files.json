@@ -52,7 +52,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavier.zip",
-      "extract_path": "files/dragon2017/assets",
+      "extract_path": "dragon2017/assets",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
@@ -63,7 +63,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavierfiles.zip",
-      "extract_path": "",
+      "extract_path": "dragon2017/assets",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
