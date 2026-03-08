@@ -56,6 +56,16 @@
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
-    }
+    },
+     {
+      "id": "game_files_06",
+      "name": "xavierfiles",
+      "description": "Koleksi skin eksklusif untuk karakter game",
+      "version": "1.0.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavierfiles.zip",
+      "extract_path": "com.mobile.legends/files",
+      "icon": "✨",
+      "file_size": 20971520,
+      "category": "Mod"
   ]
 }
