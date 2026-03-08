@@ -8,7 +8,7 @@
       "description": "File data utama untuk game RPG offline",
       "version": "2.1.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirot2.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "🎮",
       "file_size": 52428800,
       "category": "Game"
@@ -19,7 +19,7 @@
       "description": "Update patch terbaru untuk performa game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/alucom.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "🔧",
       "file_size": 10485760,
       "category": "Tools"
@@ -30,7 +30,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/aludragon.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
@@ -41,7 +41,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/lapu1.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
@@ -52,7 +52,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavier.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
@@ -63,7 +63,7 @@
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavierfiles.zip",
-      "extract_path": "com.mobile.legends/files",
+      "extract_path": "Android/data/com.mobile.legends/files",
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
