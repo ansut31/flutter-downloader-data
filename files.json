@@ -2,67 +2,23 @@
   "version": "1.2.0",
   "last_updated": "2025-03-07",
   "items": [
-    {
-      "id": "game_files_01",
-      "name": "Game Files Pack",
+     {
+      "id": "game_files_001",
+      "name": "Chou Sanji",
       "description": "File data utama untuk game RPG offline",
       "version": "2.1.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/dirot2.zip",
-      "extract_path": "",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/chousanji.zip",
+      "extract_path": "dragon2017/assets",
       "icon": "🎮",
       "file_size": 52428800,
       "category": "Game"
     },
-    {
-      "id": "game_files_02",
-      "name": "Alucom",
-      "description": "Update patch terbaru untuk performa game",
-      "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/alucom.zip",
-      "extract_path": "",
-      "icon": "🔧",
-      "file_size": 10485760,
-      "category": "Tools"
-    },
-    {
-      "id": "game_files_03",
-      "name": "Aludragon",
-      "description": "Koleksi skin eksklusif untuk karakter game",
-      "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/aludragon.zip",
-      "extract_path": "",
-      "icon": "✨",
-      "file_size": 20971520,
-      "category": "Mod"
-    },
-    {
-      "id": "game_files_04",
-      "name": "lapu1",
-      "description": "Koleksi skin eksklusif untuk karakter game",
-      "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/lapu1.zip",
-      "extract_path": "",
-      "icon": "✨",
-      "file_size": 20971520,
-      "category": "Mod"
-    },
-    {
+     {
       "id": "game_files_05",
-      "name": "xavierlangsung",
+      "name": "xavier collector",
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
       "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavier.zip",
-      "extract_path": "dragon2017/assets",
-      "icon": "✨",
-      "file_size": 20971520,
-      "category": "Mod"
-    },
-    {
-      "id": "game_files_06",
-      "name": "xavierfiles",
-      "description": "Koleksi skin eksklusif untuk karakter game",
-      "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavierfiles.zip",
       "extract_path": "dragon2017/assets",
       "icon": "✨",
       "file_size": 20971520,
