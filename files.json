@@ -23,6 +23,28 @@
       "icon": "✨",
       "file_size": 20971520,
       "category": "Mod"
+    },
+    {
+      "id": "game_files_0221",
+      "name": "lancedraw",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://github.com/ansut31/flutter-downloader-data/releases/download/v1.0/lancedraw.zip",
+      "extract_path": "dragon2017/assets",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
+    },
+   {
+      "id": "game_files_0231",
+      "name": "claude",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/claudesanrio.zip",
+      "extract_path": "dragon2017/assets",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
     }
   ]
 }
