@@ -13,12 +13,23 @@
       "file_size": 52428800,
       "category": "Game"
     },
+    {
+      "id": "game_files_0201",
+      "name": "claude default",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/claudedefault.zip",
+      "extract_path": "dragon2017/assets",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
+    },
      {
-      "id": "game_files_05",
-      "name": "xavier collector",
+      "id": "game_files_0325",
+      "name": "lance default",
       "description": "Koleksi skin eksklusif untuk karakter game",
       "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/xavier.zip",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/lancedefault.zip",
       "extract_path": "dragon2017/assets",
       "icon": "✨",
       "file_size": 20971520,
