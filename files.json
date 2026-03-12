@@ -4,6 +4,17 @@
   "items": [
      {
       "id": "game_files_001",
+      "name": "Alu Legends",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://github.com/ansut31/flutter-downloader-data/releases/download/v1.0/alulegends.zip",
+      "extract_path": "dragon2017/assets",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
+    },
+    {
+      "id": "game_files_001",
       "name": "Chou Sanji",
       "description": "File data utama untuk game RPG offline",
       "version": "2.1.0",
