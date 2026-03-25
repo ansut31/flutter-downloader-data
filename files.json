@@ -24,6 +24,17 @@
       "file_size": 52428800,
       "category": "Game"
     },
+     {
+      "id": "game_files_02221",
+      "name": "fannyaot",
+      "description": "File data utama untuk game RPG offline",
+      "version": "2.1.0",
+      "download_url": "https://raw.githubusercontent.com/ansut31/flutter-downloader-data/main/fannyaot.zip",
+      "extract_path": "dragon2017/assets",
+      "icon": "🎮",
+      "file_size": 52428800,
+      "category": "Game"
+    },
     {
       "id": "game_files_0201",
       "name": "claude default",
